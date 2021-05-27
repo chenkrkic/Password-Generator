@@ -11,7 +11,7 @@ Finally, setting the generated password to pop-up in the textbox.
   
 Thank you for reviewing, and feel free to leave a comment/ suggestion.  
   
-![Screen Shot 2021-05-27 at 1 33 02 AM (2)](https://user-images.githubusercontent.com/30817557/119793487-7f46a580-be8b-11eb-8e16-bb3909c24811.png)
+  
 <img width="1680" alt="Screen Shot 2021-05-27 at 1 33 02 AM" src="https://user-images.githubusercontent.com/30817557/119793478-7d7ce200-be8b-11eb-9449-daa8e6eb9295.png">
   
 
