@@ -10,6 +10,7 @@ and adding right after to prevent infinite loop.
 Finally, setting the generated password to pop-up in the textbox.
   
 Thank you for reviewing, and feel free to leave a comment/ suggestion.  
+http://127.0.0.1:5500/Password-Generator/Develop/index.html
   
   
 <img width="1680" alt="Screen Shot 2021-05-27 at 1 33 02 AM" src="https://user-images.githubusercontent.com/30817557/119793478-7d7ce200-be8b-11eb-9449-daa8e6eb9295.png">
